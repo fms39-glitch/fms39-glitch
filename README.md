@@ -1,6 +1,25 @@
-### 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+### 💻 Languages & Core Concepts
+* **Languages:** Java, Python, JavaScript
+* **Core Concepts:** Object-Oriented Programming (OOP), App Development, AJAX
+
+### 🤖 AI & Data Science
+* **Generative AI:** GenAI, Retrieval-Augmented Generation (RAG)
+* **Agentic Frameworks:** Model Context Protocol (MCP)
+* **Libraries & Data:** NumPy, BeautifulSoup (Web Scraping)
+
+### 🌐 Web Development
+* **Frontend:** React, Vite, CSS3
+* **Backend:** Flask
+
+### 🗄️ Databases
+* **SQL:** MySQL
+
+### ⚙️ DevOps, CI/CD & Deployment
+* **Version Control:** Git, GitHub
+* **Automation:** GitHub Actions
+* **Cloud & Hosting:** Vercel, Render, Railway
+
+### 🚀 Advanced Features
+* `import antigravity` (Yes, I can fly)
