@@ -1,6 +1,5 @@
 ## 🛠️ Tech Stack & Tools
 
-### 💻 Languages & Core Concepts
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -8,29 +7,19 @@
 ![OOP](https://img.shields.io/badge/Concept-OOP-blueviolet?style=for-the-badge)
 ![AJAX](https://img.shields.io/badge/Concept-AJAX-success?style=for-the-badge)
 ![App Dev](https://img.shields.io/badge/Focus-App%20Dev-orange?style=for-the-badge)
-
-### 🤖 AI & Data Science
 ![GenAI](https://img.shields.io/badge/AI-GenAI-magenta?style=for-the-badge&logo=openai&logoColor=white)
 ![RAG](https://img.shields.io/badge/AI-RAG-cyan?style=for-the-badge)
 ![MCP](https://img.shields.io/badge/Agentic-MCP-blue?style=for-the-badge&logo=anthropic&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/Scraping-BeautifulSoup-green?style=for-the-badge)
-
-### 🌐 Web Development
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361dafb)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-
-### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### ⚙️ DevOps, CI/CD & Deployment
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-%23131415.svg?style=for-the-badge&logo=railway&logoColor=white)
-
-### 🚀 Advanced Features
 ![Antigravity](https://img.shields.io/badge/import-antigravity-red?style=for-the-badge&logo=python&logoColor=white)
