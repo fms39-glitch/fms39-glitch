@@ -29,3 +29,4 @@
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)ven
 ![Aiven](https://img.shields.io/badge/Aiven-%23FF4F00.svg?style=for-the-badge&logo=aiven&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-%23007ACC.svg?style=for-the-badge&logo=azuredevops&logoColor=white)
