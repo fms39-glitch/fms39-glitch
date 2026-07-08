@@ -11,8 +11,9 @@
 ![](https://github-readme-stats.shion.dev/api?username=fms39-glitch&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=fms39-glitch&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=fms39-glitch&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-## 📈 Daily Activity
-![Contribution Graph](https://github-readme-stats.vercel.app/api?username=fms39-glitch&show_icons=true&theme=radical)
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fms39-glitch&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fms39-glitch&layout=compact&theme=radical)
 ## 🏅 Achievements
 ![YOLO](https://img.shields.io/badge/YOLO-🚀-red)
 ![Pull Shark](https://img.shields.io/badge/Pull_Shark-🦈-blue)
