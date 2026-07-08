@@ -12,6 +12,12 @@
 ![](https://streak-stats.demolab.com/?user=fms39-glitch&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=fms39-glitch&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏅 Achievements
+<a href="https://github.com/fms39-glitch?tab=achievements"><img src="https://github.githubassets.com/assets/yolo-default-64.png" width="50" alt="YOLO"></a>
+<a href="https://github.com/fms39-glitch?tab=achievements"><img src="https://github.githubassets.com/assets/pull-shark-default-64.png" width="50" alt="Pull Shark"></a>
+<a href="https://github.com/fms39-glitch?tab=achievements"><img src="https://github.githubassets.com/assets/galaxy-brain-default-64.png" width="50" alt="Galaxy Brain"></a>
+<a href="https://github.com/fms39-glitch?tab=achievements"><img src="https://github.githubassets.com/assets/quickdraw-default-64.png" width="50" alt="Quickdraw"></a>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=fms39-glitch&theme=default&no-frame=false&no-bg=false&margin-w=4)
 
