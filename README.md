@@ -24,4 +24,7 @@
 ---
 [![](https://komarev.com/ghpvc/?username=fms39-glitch&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🐍 My Contribution Snake
+![Snake Animation](https://github.com/fms39-glitch/fms39-glitch/blob/output/github-contribution-grid-snake.gif?raw=true)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
