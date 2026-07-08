@@ -13,10 +13,10 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=fms39-glitch&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏅 Achievements
-<a href="https://github.com/fms39-glitch?tab=achievements"><img src="https://github.githubassets.com/assets/yolo-default-64.png" width="50" alt="YOLO"></a>
-<a href="https://github.com/fms39-glitch?tab=achievements"><img src="https://github.githubassets.com/assets/pull-shark-default-64.png" width="50" alt="Pull Shark"></a>
-<a href="https://github.com/fms39-glitch?tab=achievements"><img src="https://github.githubassets.com/assets/galaxy-brain-default-64.png" width="50" alt="Galaxy Brain"></a>
-<a href="https://github.com/fms39-glitch?tab=achievements"><img src="https://github.githubassets.com/assets/quickdraw-default-64.png" width="50" alt="Quickdraw"></a>
+![YOLO](https://img.shields.io/badge/YOLO-🚀-red)
+![Pull Shark](https://img.shields.io/badge/Pull_Shark-🦈-blue)
+![Galaxy Brain](https://img.shields.io/badge/Galaxy_Brain-🧠-purple)
+![Quickdraw](https://img.shields.io/badge/Quickdraw-⚡-yellow)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=fms39-glitch&theme=default&no-frame=false&no-bg=false&margin-w=4)
