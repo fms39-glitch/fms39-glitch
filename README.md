@@ -21,7 +21,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=fms39-glitch&theme=default&no-frame=false&no-bg=false&margin-w=4)
 
-
+--------------------
 
 
 ![Snake Animation](https://github.com/fms39-glitch/fms39-glitch/blob/output/github-contribution-grid-snake.gif?raw=true)
