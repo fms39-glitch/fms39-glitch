@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Faizan, a full-stack developer focused on building real-world projects that solve actual problems. I specialize in backend development and DevOps, and I'm passionate about designing GenAI-powered applications with RAG integration for smarter, data-driven solutions. Currently deepening my expertise in agentic architectures (MCP) and learning to integrate automated systems into business workflows. Always open to collaborating on AI agents, backend automation, or React/Vite-based web apps — feel free to check out my projects or reach out.
+I'm Faizan, a full-stack developer focused on building real-world projects that solve actual problems. I specialize in backend development and DevOps, and I'm passionate about designing GenAI-powered applications with RAG integration for smarter, data-driven solutions. Currently deepening my expertise in agentic architectures (MCP) and learning to integrate automated systems into business workflows. Always open to collaborating on AI agents, backend automation, or React/Vite-based web apps — feel free to check out my projects and reach out.
 
 
 ## 🌐 Socials:
