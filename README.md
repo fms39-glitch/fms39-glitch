@@ -1,7 +1,6 @@
 # 💫 About Me:
 I'm Faizan, a full-stack developer focused on building real-world projects that solve actual problems. I specialize in backend development and DevOps, and I'm passionate about designing GenAI-powered applications with RAG integration for smarter, data-driven solutions. Currently deepening my expertise in agentic architectures (MCP) and learning to integrate automated systems into business workflows. Always open to collaborating on AI agents, backend automation, or React/Vite-based web apps — feel free to check out my projects and reach out.
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_justfaizan_30) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fms39) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Fms39dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:faizanshaikh2007304@gmail.com) 
 
